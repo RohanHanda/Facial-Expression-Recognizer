@@ -22,5 +22,3 @@ This project implements facial expression recognition using neural networks in P
   - `pandas`
   - `matplotlib`
   - `scikit-learn`
-
-Install with:
